@@ -1,0 +1,28 @@
+.jobcard{
+    display: flex;
+    justify-content: space-between;
+    background-color: #ffffff;
+    width: 80%;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+.company{
+    flex: 1;
+    text-align: center;
+}
+.result{
+    flex: 1;
+    text-align: center;
+    cursor: pointer;
+}
+.date{
+    flex: 1;
+    text-align: center;
+}
+
+.add{
+    flex:1;
+    text-align: center;
+    cursor: pointer;
+}
